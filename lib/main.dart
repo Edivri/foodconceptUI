@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF5B8842),
                       fontSize: 50.0)),
-              Text('Morning',
+              Text('Morning Benjamin',
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF5B8842),
